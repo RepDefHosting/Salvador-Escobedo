@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: Mr. Escobedo began his career in leadership positions with
+  public institutions such as Mexico’s Ministry of Social Development and
+  Ministry of Finance.
 published: true
 schemaType: WebPage
 header: Blog
