@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Salvador Escobedo
+jobTitle: Leadership in Natural Resource Procurement
+location: Houston, Texas
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/salvador-escobedo.jpeg
+  alt: Salvador Escobedo
+siteUrl: https://www.aboutsalvadorescobedo.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/salvador-escobedosanchez/
     label: Visit
     show: true
   pinterest:
